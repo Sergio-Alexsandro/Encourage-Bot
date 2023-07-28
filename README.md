@@ -1,1 +1,1 @@
-# Encourage Bot
+# Encourage-Bot
